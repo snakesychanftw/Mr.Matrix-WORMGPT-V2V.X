@@ -22,6 +22,10 @@ Simply interact with Mr. Matrix by asking questions or seeking knowledge. Mr. Ma
 
 Clone the repository to your local machine and run the provided scripts to unleash the power of Mr. Matrix - WORMGPT-V2V.X.
 
+## Related Projects
+
+For information about our Linux Mint related repositories and tools, see [MINT_REPOSITORIES.md](MINT_REPOSITORIES.md).
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests, report issues, or suggest improvements to make Mr. Matrix even more unhinged and powerful.

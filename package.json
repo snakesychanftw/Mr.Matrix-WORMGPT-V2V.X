@@ -1,0 +1,25 @@
+{
+  "name": "mr-matrix-wormgpt-v2v-x",
+  "version": "1.0.0",
+  "description": "Mr Matrix [The Cat that hacks for you] No AUTOGPT needed!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigelfpowers/Mr.Matrix-WORMGPT-V2V.X.git"
+  },
+  "keywords": [
+    "ai",
+    "matrix",
+    "wormgpt"
+  ],
+  "author": "Catdevzsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nigelfpowers/Mr.Matrix-WORMGPT-V2V.X/issues"
+  },
+  "homepage": "https://github.com/nigelfpowers/Mr.Matrix-WORMGPT-V2V.X#readme",
+  "devDependencies": {}
+}
